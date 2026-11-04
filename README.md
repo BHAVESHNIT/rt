@@ -1,2 +1,2 @@
-# rt
-my first repository
+# rt 
+my first repository on the app
